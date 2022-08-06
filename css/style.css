@@ -252,21 +252,21 @@ header .burger {
   -webkit-transition: 0.2s;
   transition: 0.2s;
   background-repeat: no-repeat;
-  background-image: url("/images/icon_arrow-noHnoA.svg");
+  background-image: url("images/icon_arrow-noHnoA.svg");
 }
 .benefits .blocks .left a:hover .arrow {
-  background-image: url("/images/icon_arrowHnoA.svg");
+  background-image: url("images/icon_arrowHnoA.svg");
 }
 .benefits .blocks .left .arrow__active {
   width: 3.1rem;
   margin-left: auto;
   -webkit-transition: 0.2s;
   transition: 0.2s;
-  background-image: url("/images/icon_arrownoHA.svg") !important;
+  background-image: url("images/icon_arrownoHA.svg") !important;
 }
 .benefits .blocks .left a:hover .arrow__active {
   width: 3.1rem;
-  background-image: url("/images/icon-arrowHA.svg") !important;
+  background-image: url("images/icon-arrowHA.svg") !important;
 }
 .benefits .blocks .left .info__block {
   margin-top: 2.5rem;
@@ -463,12 +463,12 @@ header .burger {
   width: 3rem;
   height: 3rem;
   margin-left: 1rem;
-  background-image: url("/images/icon_down.svg");
+  background-image: url("images/icon_down.svg");
   -webkit-transition: 0.2s;
   transition: 0.2s;
 }
 .price__list .show:hover .open__arrow {
-  background-image: url("/images/icon_down_hover.svg");
+  background-image: url("images/icon_down_hover.svg");
 }
 .price__list .rotate {
   -webkit-transform: rotate(180deg);
@@ -510,12 +510,12 @@ header .burger {
   height: 4rem !important;
   -webkit-transform: rotate(180deg);
           transform: rotate(180deg);
-  background: url("/images/sliderArrow.svg") no-repeat !important;
+  background: url("images/sliderArrow.svg") no-repeat !important;
 }
 .projects .swiper .swiper-button-next {
   width: 4rem !important;
   height: 4rem !important;
-  background: url("/images/sliderArrow.svg") no-repeat !important;
+  background: url("images/sliderArrow.svg") no-repeat !important;
 }
 .projects .swiper .swiper-button-prev:after, .projects .swiper .swiper-rtl .swiper-button-next:after, .projects .swiper .swiper-button-next:after, .projects .swiper .swiper-rtl .swiper-button-prev:after {
   content: "" !important;
