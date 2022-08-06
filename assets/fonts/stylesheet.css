@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'Roboto Condensed Light';
+    src: url('RobotoCondensed-Light.ttf');
+    src: local('RobotoCondensed-Light.ttf'), local('RobotoCondensed-Light.ttf'),
+        url('RobotoCondensed-Light.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto Condensed Regural';
+    src: url('RobotoCondensed-Regular.ttf');
+    src: local('RobotoCondensed-Regular.ttf'), local('RobotoCondensed-Regular.ttf'),
+        url('RobotoCondensed-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto Condensed Bold';
+    src: url('RobotoCondensed-Bold.ttf');
+    src: local('RobotoCondensed-Bold.ttf'), local('RobotoCondensed-Bold.ttf'),
+        url('RobotoCondensed-Bold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
