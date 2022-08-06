@@ -1509,6 +1509,7 @@ header .burger {
   .price__list .prices button {
     width: auto;
     padding: 2.2rem 9.5rem;
+    max-width: 29rem;
   }
 
   .price__list p {
