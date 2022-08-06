@@ -126,6 +126,15 @@
         </div>
         <script src="js/script.js"></script>
         <script>
+          function toggleEl(el) {
+            if (el.style.display !== 'none') {
+              el.style.display = 'none';
+          }
+          else {
+              el.style.display = 'block';
+          }
+        }
+
             for (let i = 0;i<4;i++){
   let buttonList = document.querySelectorAll('.portfolio__chose');
   buttonList[i].addEventListener('click',function(){
