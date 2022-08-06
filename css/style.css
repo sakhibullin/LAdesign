@@ -1501,4 +1501,18 @@ header .burger {
   .projects {
     width: inherit;
   }
+
+  .price__list .prices .price__block {
+    width: 29rem;
+  }
+
+  .price__list .prices button {
+    width: auto;
+    padding: 2.2rem 9.5rem;
+  }
+
+  .price__list p {
+    width: 252px;
+    font-size: 20px;
+  }
 }
